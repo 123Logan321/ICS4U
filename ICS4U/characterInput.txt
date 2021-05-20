@@ -1,0 +1,6 @@
+100
+Operator,Ghost
+Alive
+Raze
+8000
+BlastPack,1,ShowStopper,1,

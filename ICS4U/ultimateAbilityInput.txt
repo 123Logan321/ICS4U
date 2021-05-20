@@ -1,0 +1,15 @@
+BladeStorm
+750
+60
+1
+1
+OrbitalStrike
+900
+80
+1
+1
+ShowStopper
+1100
+90
+1
+1
