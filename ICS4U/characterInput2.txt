@@ -1,6 +1,0 @@
-150
-Vandal,Ghost
-Alive
-BrimStone
-3000
-Incendiary,2,OrbitalStrike,1,
