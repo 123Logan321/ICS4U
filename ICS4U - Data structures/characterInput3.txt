@@ -1,0 +1,6 @@
+125
+Phantom,Frenzy,Odin
+Alive
+Jett
+1000
+HotHands,2,BladeStorm,1,
