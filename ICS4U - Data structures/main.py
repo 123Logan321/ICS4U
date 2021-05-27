@@ -3,27 +3,27 @@ from gun import Gun
 from ability import Ability
 from ability import ultimateAbility
 
-gunfile_input = open("D:\🐧\Coding stuff\Python files\ICS4U\gunInput.txt",'r')
+gunfile_input = open("D:\🐧\Coding stuff\Python files\ICS4U - Data structures\gunInput.txt",'r')
 gunfile_data = gunfile_input.readlines()
 gunfile_input.close()
 
-abilityfile_input = open("D:\\🐧\\Coding stuff\\Python files\\ICS4U\\abilityInput.txt",'r')
+abilityfile_input = open("D:\\🐧\\Coding stuff\\Python files\\ICS4U - Data structures\\abilityInput.txt",'r')
 abilityfile_data = abilityfile_input.readlines()
 abilityfile_input.close()
 
-ultimateAbilityfile_input = open("D:\\🐧\\Coding stuff\\Python files\\ICS4U\\ultimateAbilityInput.txt",'r')
+ultimateAbilityfile_input = open("D:\\🐧\\Coding stuff\\Python files\\ICS4U - Data structures\\ultimateAbilityInput.txt",'r')
 ultimateAbilityfile_data = ultimateAbilityfile_input.readlines()
 ultimateAbilityfile_input.close()
 
-characterfile_input = open("D:\🐧\Coding stuff\Python files\ICS4U\characterInput.txt",'r')
+characterfile_input = open("D:\🐧\Coding stuff\Python files\ICS4U - Data structures\characterInput.txt",'r')
 characterfile_data = characterfile_input.readlines()
 characterfile_input.close()
 
-characterfile2_input = open("D:\🐧\Coding stuff\Python files\ICS4U\characterInput2.txt",'r')
+characterfile2_input = open("D:\🐧\Coding stuff\Python files\ICS4U - Data structures\characterInput2.txt",'r')
 characterfile2_data = characterfile2_input.readlines()
 characterfile2_input.close()
 
-characterfile3_input = open("D:\🐧\Coding stuff\Python files\ICS4U\characterInput3.txt",'r')
+characterfile3_input = open("D:\🐧\Coding stuff\Python files\ICS4U - Data structures\characterInput3.txt",'r')
 characterfile3_data = characterfile3_input.readlines()
 characterfile3_input.close()
 
@@ -164,7 +164,7 @@ player1.upAmplify('ShowStopper',ultimateAbilities,3,player3)
 player1.buyAbility('BlastPack',abilities,2)
 '''
 
-file_output = open("D:\🐧\Coding stuff\Python files\ICS4U\export.txt",'w')
+file_output = open("D:\🐧\Coding stuff\Python files\ICS4U - Data structures\export.txt",'w')
 p_sort = [player1,player2,player3]
 p_sort.sort()
 file_output.write("================================================================================\n")
