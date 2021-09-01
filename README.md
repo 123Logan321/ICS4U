@@ -1,3 +1,3 @@
 # ICS4U
 
-All work for my grade 12 cs course
+The following folder contains the data structure project that is made based on a game called valorant
